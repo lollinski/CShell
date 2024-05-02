@@ -1,0 +1,12 @@
+#include<iostream>
+#include <string>
+
+int main(){
+std::string WomensSkills = "cooking";
+
+  if (WomensSkills == cooking){
+  std::cout << "Women Should Be Chefs" << std::endl;
+  }//end if
+
+return 0;
+}//end main
